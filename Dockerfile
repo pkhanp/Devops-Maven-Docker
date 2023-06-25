@@ -1,2 +1,2 @@
-FROM tomcat:8
+FROM tomcat
 copy target/devops.war webapps/
